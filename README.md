@@ -30,6 +30,6 @@ https://buildingai.elementsofai.com/
 - Deep learning
 
 ### Chapter 5 - Conclusion
-- "##Summary"
+- ##Summary
 - Your AI idea
 - AI idea gallery
