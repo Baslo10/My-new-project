@@ -7,9 +7,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 Final project for the Building AI course
 
 ## Summary
-##Summary
-
-
+## Summary
 My project focuses on developing a machine learning model to predict customer churn for subscription-based businesses. By analyzing user behavior and engagement metrics, the model aims to identify customers likely to leave, helping companies retain them proactively.
 
 ## Background
