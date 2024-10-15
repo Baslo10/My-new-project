@@ -1,14 +1,15 @@
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
-#title
-##Summary
+
+# Painting with AI
 
 Final project for the Building AI course
 
 ## Summary
 
-My project is about ai an learning to use it in a way simplifiying the daily work wtc.
+Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+
 
 ## Background
 
