@@ -9,8 +9,8 @@ Final project for the Building AI course
 ## Summary
 ##Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
+My project focuses on developing a machine learning model to predict customer churn for subscription-based businesses. By analyzing user behavior and engagement metrics, the model aims to identify customers likely to leave, helping companies retain them proactively.
 
 ## Background
 
